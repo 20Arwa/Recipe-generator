@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+button {
+  border: none;
+}
+header > img {
+  width: 50px;
+  margin-right: 10px;
+}
+.getRecipe button {
+  background-color: rgb(250 108 62);
+}
