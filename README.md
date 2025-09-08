@@ -9,6 +9,13 @@ It is intended for learning purposes only.
 ## 🌐 Live Demo
 👉 [View on GitHub Pages](https://20Arwa.github.io/Recipe-generator/)
 
+## ⚠️ Important Note
+The online demo is only for **UI preview**.  
+Recipe suggestions will **not work** because the API key is not provided publicly.  
+
+👉 If you want to use the recipe generator with AI, you need to add your own **Hugging Face API key**.
+
+
 ---
 
 ## 📌 Features
@@ -33,8 +40,10 @@ It is intended for learning purposes only.
    cd Recipe-generator
 
 2. Install dependencies:
+    ```bash
     npm install
 
 3. Start the development server:
+    ```bash
     npm run dev
 
