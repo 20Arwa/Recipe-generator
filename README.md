@@ -13,7 +13,7 @@ It is intended for learning purposes only.
 The online demo is only for **UI preview**.  
 Recipe suggestions will **not work** because the API key is not provided publicly.  
 
-👉 If you want to use the recipe generator with AI, you need to add your own **Hugging Face API key**.
+👉 If you want to use the recipe generator with AI, you need to add your own **Hugging Face API key** in ai.js file.
 
 
 ---
