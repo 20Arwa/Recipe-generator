@@ -1,8 +1,7 @@
 # 🍲 React Beginner Project - Recipe Generator 
 
 This project was created while following the YouTube tutorial:  
-**Learn React JS - Full Beginner's Tutorial & Practice Projects** 
-[The tutorial link](https://youtu.be/x4rFhThSX04?si=OwFHCu3SkQq5qjgJ) 
+[**Learn React JS - Full Beginner's Tutorial & Practice Projects**](https://youtu.be/x4rFhThSX04?si=OwFHCu3SkQq5qjgJ) 
 It is intended for learning purposes only.
 
 ---
